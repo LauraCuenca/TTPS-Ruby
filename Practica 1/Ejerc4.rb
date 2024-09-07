@@ -1,0 +1,1 @@
+pp 'TTPS Ruby'.object_id == 'TTPS Ruby'.object_id # => false  Cada cadena crea un nuevo objeto String con un object_id diferente.
