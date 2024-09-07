@@ -1,6 +1,4 @@
-```1. Investigá y probá en un intérprete de Ruby (irb, por ejemplo) cómo crear objetos de los siguien‑ 
-tes tipos básicos, tanto mediante el uso de literales como utilizando el constructor new (cuando
-sea posible):```
+```1. Investigá y probá en un intérprete de Ruby (irb, por ejemplo) cómo crear objetos de los siguientes tipos básicos, tanto mediante el uso de literales como utilizando el constructor new (cuandosea posible):```
 
 • Symbol
 :mi_simbolo
