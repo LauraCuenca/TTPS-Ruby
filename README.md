@@ -1,7 +1,8 @@
 # TTPS-RUBY
 
 Ejercicios de TTPS - Ruby
-<img src="https://github.com/user-attachments/assets/db72c078-9f92-4053-8241-537946a2adaa" alt="Rubys" width="600"/>
+<img src="https://github.com/user-attachments/assets/db72c078-9f92-4053-8241-537946a2adaa" alt="Rubys" width="800" height="auto"/>
+
 
 
 ## Prácticas
