@@ -9,12 +9,12 @@ class Palabra
   def initialize(palabra)
     @palabra = palabra.strip
 
-    # Verificar si es un string vacío
+    # Verifica si es un string vacío
     if @palabra.empty?
       raise EsUnStringVacio, "Es un string vacío"
     end
 
-    # Verificar si contiene caracteres y al menos un espacio
+    # Verifica si contiene caracteres y al menos un espacio
     if @palabra.match?(/[^\s]/) && @palabra.include?(" ")
       raise NoEsUnaPalabra, "#{palabra} no es una palabra"
     end
@@ -51,7 +51,6 @@ class Palabra
   end
 end
 
-# Ejemplo de uso:
 begin
   palabra = Palabra.new("neuquen")
   puts "Vocales: #{palabra.vocales.join(', ')}"
