@@ -10,3 +10,4 @@ Uno de los usos más populares de Ruby es en el desarrollo web gracias a Ruby on
 
 - [Práctica 1](https://github.com/LauraCuenca/TTPS-Ruby/tree/main/Practica%201)
 - [Práctica 2](https://github.com/LauraCuenca/TTPS-Ruby/tree/main/Practica%202)
+- [Práctica 3](https://github.com/LauraCuenca/TTPS-Ruby/tree/main/Practica%203)
