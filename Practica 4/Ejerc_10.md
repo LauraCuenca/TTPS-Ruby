@@ -1,7 +1,6 @@
 ### ``` Investigá qué métodos agrega AS a las siguientes clases:```
 `1. String`
-ActiveSupport extiende la clase String con varios métodos útiles para manipular cadenas de texto. 
-Por ej:
+ActiveSupport extiende la clase String con varios métodos útiles para manipular cadenas de texto. Por ej:
 - titleize: Convierte una cadena a formato título, capitalizando las primeras letras de cada palabra.
 - camelize: Convierte una cadena en formato "underscore" a formato "CamelCase".
 - underscore: Convierte una cadena en formato "CamelCase" a "snake_case".
