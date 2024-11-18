@@ -10,7 +10,7 @@ Por ej:
 - present?: Devuelve true si la cadena no está vacía.<br>
 `2. Array`
 ActiveSupport agrega métodos útiles a la clase Array para trabajar con colecciones de elementos. 
-Por ej:
+Por ej:<br>
 - deep_dup: Realiza una duplicación profunda de un arreglo, copiando también los elementos internos.
 - blank?: Devuelve true si el arreglo está vacío.
 - present?: Devuelve true si el arreglo contiene elementos.
@@ -18,13 +18,13 @@ Por ej:
 - sum: Suma los elementos del arreglo. Para objetos no numéricos, se puede pasar un bloque.
 - in_groups_of: Divide el arreglo en subarreglos de un tamaño específico.<br>
 `3. Hash`
-ActiveSupport también extiende la clase Hash con varios métodos útiles:
+ActiveSupport también extiende la clase Hash con varios métodos útiles:<br>
 - deep_merge: Fusiona dos hashes de forma recursiva, combinando valores anidados.
 - symbolize_keys: Convierte todas las claves de un hash en símbolos.
 - deep_symbolize_keys: Convierte recursivamente todas las claves del hash en símbolos.
 - compact: Elimina las claves con valores nil.<br>
 `4. Date`
-ActiveSupport agrega varios métodos útiles a la clase Date para trabajar con fechas:
+ActiveSupport agrega varios métodos útiles a la clase Date para trabajar con fechas:<br>
 - beginning_of_day: Devuelve la fecha con la hora establecida a las 00:00:00.
 - end_of_day: Devuelve la fecha con la hora establecida a las 23:59:59.
 - next_day: Devuelve la fecha del día siguiente.
