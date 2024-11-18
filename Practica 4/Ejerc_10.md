@@ -9,7 +9,7 @@ Por ej:
 - blank?: Devuelve true si la cadena está vacía o es solo espacios en blanco.
 - present?: Devuelve true si la cadena no está vacía.<br>
 `2. Array`
-ctiveSupport agrega métodos útiles a la clase Array para trabajar con colecciones de elementos. 
+ActiveSupport agrega métodos útiles a la clase Array para trabajar con colecciones de elementos. 
 Por ej:
 - deep_dup: Realiza una duplicación profunda de un arreglo, copiando también los elementos internos.
 - blank?: Devuelve true si el arreglo está vacío.
