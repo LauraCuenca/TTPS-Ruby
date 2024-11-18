@@ -1,4 +1,4 @@
-### ```Sobre la configuración de Rails:
+### ```Sobre la configuración de Rails:```
 1. ¿De qué forma podés especificar parámetros de configuración del framework en una app
 Rails?
 2. ¿Cuáles son los archivos de configuración principales? Intentá relacionar este concepto
